@@ -7,3 +7,7 @@
   </main>
 </body>
 ```
+
+```javascript
+const box = document.querySelector('.box');
+```
