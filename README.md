@@ -11,3 +11,5 @@
 ```javascript
 const box = document.querySelector('.box');
 ```
+
+- 네이버: <https://naver.com/>
